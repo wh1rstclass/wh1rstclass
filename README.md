@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2>Just a system administrator, just writing a little Python.
+I like to find different interesting utilities here, as well as write them myself if necessary.<h2 />
 <!--
 **wh1rstclass/wh1rstclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
