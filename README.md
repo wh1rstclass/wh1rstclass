@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<h2>Just a system administrator, just writing a little Python.
-I like to find different interesting utilities here, as well as write them myself if necessary.<h2 />
+**DevOps engineer, production archaeologist, and occasional infrastructure necromancer.**
+
+Professional rabbit-hole explorer by nature. I like reliable infrastructure, weird technical problems, old machines that refuse to die, and building things just to see if I can.
+
+If something is complicated, fragile, and vaguely on fire, I’ll probably enjoy fixing it.
+
 <!--
 **wh1rstclass/wh1rstclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
